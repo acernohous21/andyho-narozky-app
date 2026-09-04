@@ -208,16 +208,6 @@ export const STORY: StoryStep[] = [
         ],
       },
       {
-        title: 'Scooby-Doo',
-        characters: [
-          { name: 'Fred', icon: '🧣', blurb: 'Vede partu a nosí šátek. Vždycky má plán.', person: 'Andy' },
-          { name: 'Daphne', icon: '💜', blurb: 'Nejlíp oblečená z party. Občas unesená.', person: 'Adam' },
-          { name: 'Velma', icon: '🔍', blurb: 'Ta chytrá. Jinkies. Pořád hledá brýle.', person: 'Kuba' },
-          { name: 'Shaggy', icon: '🥪', blurb: 'Pořád má hlad. Zoinks.', person: 'David' },
-          { name: 'Scooby', icon: '🐕', blurb: 'Pes. Loajální. Za sušenku udělá cokoliv.', person: 'Tom' },
-        ],
-      },
-      {
         title: 'Poslanecká sněmovna',
         characters: [
           { name: 'Eminem', icon: '🎤', blurb: 'Není politik. Ale kdo z nás je.', person: 'Andy' },
