@@ -9,7 +9,7 @@ export const CONFIG = {
   subtitle: 'Narozeninová výprava',
 
   /** PIN do admin konzole (dlouhé podržení erbu v hlavičce). */
-  adminPin: '1234',
+  adminPin: '6767',
 
   /** Násobič bodů podle obtížnosti. Body = hvězdy × násobič. */
   multipliers: { easy: 1, medium: 1.5, hard: 2 } satisfies Record<Difficulty, number>,
