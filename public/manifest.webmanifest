@@ -1,0 +1,14 @@
+{
+  "name": "Andyho narozeninová bojovka",
+  "short_name": "Andyho Bojovka",
+  "description": "Narozeninové questy pro Andyho",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#160f08",
+  "theme_color": "#160f08",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
